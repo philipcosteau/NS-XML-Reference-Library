@@ -1,0 +1,1 @@
+XML outputs for the WA Shard of the NS API
