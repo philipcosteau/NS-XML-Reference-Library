@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<NATION id="testlandia">
+  
+
+  <SECTORS>
+    
+ 
+    <BLACKMARKET>0.98</BLACKMARKET>
+    
+ 
+    <GOVERNMENT>92.20</GOVERNMENT>
+    
+ 
+    <INDUSTRY>5.33</INDUSTRY>
+    
+ 
+    <PUBLIC>1.49</PUBLIC>
+    
+
+  </SECTORS>
+  
+
+</NATION>

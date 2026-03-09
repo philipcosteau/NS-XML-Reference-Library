@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<NATION id="testlandia">
+  
+
+  <DEATHS>
+    
+ 
+    <CAUSE type="Lost in Wilderness">7.3</CAUSE>
+    
+ 
+    <CAUSE type="Old Age">92.7</CAUSE>
+    
+
+  </DEATHS>
+  
+
+</NATION>

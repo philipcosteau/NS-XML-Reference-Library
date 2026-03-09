@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<NATION id="testlandia">
+  
+
+  <ZOMBIE>
+    
+
+    <ZACTION>research</ZACTION>
+    
+
+    <ZACTIONINTENDED/>
+    
+
+    <SURVIVORS>917</SURVIVORS>
+    
+
+    <ZOMBIES>4263</ZOMBIES>
+    
+
+    <DEAD>43796</DEAD>
+    
+
+  </ZOMBIE>
+  
+
+</NATION>

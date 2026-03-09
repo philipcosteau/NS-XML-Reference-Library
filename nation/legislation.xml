@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<NATION id="testlandia">
+  
+
+  <LEGISLATION>
+    
+
+    <LAW><![CDATA[the government helps teach children how to kill a man from six paces]]></LAW>
+    
+
+    <LAW><![CDATA[appliance stores are finding spy cameras embedded in their unboxed merchandise]]></LAW>
+    
+
+    <LAW><![CDATA[contemporary art museums showcase the latest in centuries-old art]]></LAW>
+    
+
+    <LAW><![CDATA[black tea is only available on the black market]]></LAW>
+    
+
+  </LEGISLATION>
+  
+
+</NATION>

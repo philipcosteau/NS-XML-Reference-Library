@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<NATION id="testlandia">
+  
+
+  <FREEDOM>
+    
+ 
+    <CIVILRIGHTS>Average</CIVILRIGHTS>
+    
+ 
+    <ECONOMY>Powerhouse</ECONOMY>
+    
+ 
+    <POLITICALFREEDOM>Very Good</POLITICALFREEDOM>
+    
+
+  </FREEDOM>
+  
+
+</NATION>

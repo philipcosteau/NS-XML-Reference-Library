@@ -1,0 +1,516 @@
+<?xml version="1.0" ?>
+<NATION id="testlandia">
+  
+
+  <NAME>Testlandia</NAME>
+  
+
+  <TYPE>Hive Mind</TYPE>
+  
+
+  <FULLNAME>The Hive Mind of Testlandia</FULLNAME>
+  
+
+  <MOTTO>New forum when?</MOTTO>
+  
+
+  <CATEGORY>Inoffensive Centrist Democracy</CATEGORY>
+  
+
+  <UNSTATUS>WA Delegate</UNSTATUS>
+  
+
+  <ENDORSEMENTS>nationalist_gold_union,nastres_oguan</ENDORSEMENTS>
+  
+
+  <GAVOTE>UNDECIDED</GAVOTE>
+  
+
+  <SCVOTE/>
+  
+
+  <FREEDOM>
+    
+ 
+    <CIVILRIGHTS>Average</CIVILRIGHTS>
+    
+ 
+    <ECONOMY>Powerhouse</ECONOMY>
+    
+ 
+    <POLITICALFREEDOM>Very Good</POLITICALFREEDOM>
+    
+
+  </FREEDOM>
+  
+
+  <REGION>Testregionia</REGION>
+  
+
+  <POPULATION>48976</POPULATION>
+  
+
+  <TAX>86.8</TAX>
+  
+
+  <ANIMAL>★★★ nautilus ★★★</ANIMAL>
+  
+
+  <ANIMALTRAIT>frolics freely in the nation's sparkling oceans</ANIMALTRAIT>
+  
+
+  <CURRENCY>Kro-bro-ünze</CURRENCY>
+  
+
+  <FLAG>https://www.nationstates.net/images/flags/uploads/testlandia__853435.png</FLAG>
+  
+
+  <BANNERS>
+    <BANNER>v1</BANNER>
+    
+
+    <BANNER>t23</BANNER>
+    
+
+    <BANNER>o4</BANNER>
+    
+
+    <BANNER>m2</BANNER>
+    
+
+    <BANNER>l20</BANNER>
+    
+
+    <BANNER>b14</BANNER>
+    
+
+    <BANNER>m3</BANNER>
+    
+
+    <BANNER>l13</BANNER>
+    
+
+    <BANNER>h1</BANNER>
+    
+
+    <BANNER>wa1</BANNER>
+    
+
+    <BANNER>l7</BANNER>
+    
+
+    <BANNER>x6</BANNER>
+    
+
+    <BANNER>c4</BANNER>
+  </BANNERS>
+  
+
+  <MAJORINDUSTRY>Information Technology</MAJORINDUSTRY>
+  
+
+  <CRIME>Crime is totally unknown, thanks to a well-funded police force and progressive social policies in education and welfare. </CRIME>
+  
+
+  <SENSIBILITIES>compassionate, democratic</SENSIBILITIES>
+  
+
+  <GOVTPRIORITY>the Environment</GOVTPRIORITY>
+  
+
+  <GOVT>
+    
+ 
+    <ADMINISTRATION>3.0</ADMINISTRATION>
+    
+ 
+    <DEFENCE>12.1</DEFENCE>
+    
+ 
+    <EDUCATION>21.2</EDUCATION>
+    
+ 
+    <ENVIRONMENT>23.4</ENVIRONMENT>
+    
+ 
+    <HEALTHCARE>23.4</HEALTHCARE>
+    
+ 
+    <COMMERCE>5.0</COMMERCE>
+    
+ 
+    <INTERNATIONALAID>0.0</INTERNATIONALAID>
+    
+ 
+    <LAWANDORDER>6.1</LAWANDORDER>
+    
+ 
+    <PUBLICTRANSPORT>3.4</PUBLICTRANSPORT>
+    
+ 
+    <SOCIALEQUALITY>0.7</SOCIALEQUALITY>
+    
+ 
+    <SPIRITUALITY>0.0</SPIRITUALITY>
+    
+ 
+    <WELFARE>1.6</WELFARE>
+    
+
+  </GOVT>
+  
+
+  <SECTORS>
+    
+ 
+    <BLACKMARKET>0.98</BLACKMARKET>
+    
+ 
+    <GOVERNMENT>92.20</GOVERNMENT>
+    
+ 
+    <INDUSTRY>5.33</INDUSTRY>
+    
+ 
+    <PUBLIC>1.49</PUBLIC>
+    
+
+  </SECTORS>
+  
+
+  <GOVTDESC><![CDATA[It is difficult to tell where the omnipresent government stops and the rest of society begins, but it juggles the competing demands of Healthcare, Environment, and Education. It meets to discuss matters of state in the capital city of Tést City.]]></GOVTDESC>
+  
+
+  <INDUSTRYDESC>The powerhouse Testlandian economy, worth a remarkable 3,241 trillion Kro-bro-ünzes a year, is driven almost entirely by government activity. The industrial sector is solely comprised of the Information Technology industry. Average income is 66,187 Kro-bro-ünzes, and distributed extremely evenly, with little difference between the richest and poorest citizens.</INDUSTRYDESC>
+  
+
+  <NOTABLE>museums and concert halls, hatred of cheese, and punitive income tax rates</NOTABLE>
+  
+
+  <ADMIRABLE>efficient</ADMIRABLE>
+  
+
+  <INFLUENCE>Powerbroker</INFLUENCE>
+  
+
+  <DEATHS>
+    
+ 
+    <CAUSE type="Lost in Wilderness">7.3</CAUSE>
+    
+ 
+    <CAUSE type="Old Age">92.7</CAUSE>
+    
+
+  </DEATHS>
+  
+
+  <LEADER>Violet</LEADER>
+  
+
+  <CAPITAL>Tést City</CAPITAL>
+  
+
+  <RELIGION>Neo-Violetism</RELIGION>
+  
+
+  <POLICIES>
+    
+
+    <POLICY>
+      
+
+      <NAME>Devolution</NAME>
+      
+
+      <PIC>t64</PIC>
+      
+
+      <CAT>Government</CAT>
+      
+
+      <DESC>Government power is substantially delegated to local authorities.</DESC>
+      
+
+    </POLICY>
+    
+
+    <POLICY>
+      
+
+      <NAME>Native Representation</NAME>
+      
+
+      <PIC>t42</PIC>
+      
+
+      <CAT>Government</CAT>
+      
+
+      <DESC>Only native-born citizens may hold elected office.</DESC>
+      
+
+    </POLICY>
+    
+
+    <POLICY>
+      
+
+      <NAME>Marriage Equality</NAME>
+      
+
+      <PIC>p25</PIC>
+      
+
+      <CAT>Society</CAT>
+      
+
+      <DESC>Citizens of the same sex may marry.</DESC>
+      
+
+    </POLICY>
+    
+
+    <POLICY>
+      
+
+      <NAME>Vegetarianism</NAME>
+      
+
+      <PIC>a5</PIC>
+      
+
+      <CAT>Society</CAT>
+      
+
+      <DESC>Vegetarianism is compulsory.</DESC>
+      
+
+    </POLICY>
+    
+
+    <POLICY>
+      
+
+      <NAME>Gun Control</NAME>
+      
+
+      <PIC>k2</PIC>
+      
+
+      <CAT>Law &amp; Order</CAT>
+      
+
+      <DESC>Citizens are forbidden from owning firearms.</DESC>
+      
+
+    </POLICY>
+    
+
+    <POLICY>
+      
+
+      <NAME>Capitalism</NAME>
+      
+
+      <PIC>i56</PIC>
+      
+
+      <CAT>Economy</CAT>
+      
+
+      <DESC>Private industry is permitted within a market-based economy.</DESC>
+      
+
+    </POLICY>
+    
+
+    <POLICY>
+      
+
+      <NAME>No Drugs</NAME>
+      
+
+      <PIC>r14</PIC>
+      
+
+      <CAT>Economy</CAT>
+      
+
+      <DESC>All recreational drugs are prohibited.</DESC>
+      
+
+    </POLICY>
+    
+
+    <POLICY>
+      
+
+      <NAME>Climate Treaty</NAME>
+      
+
+      <PIC>l10</PIC>
+      
+
+      <CAT>International</CAT>
+      
+
+      <DESC>The nation is a signatory to an international climate treaty.</DESC>
+      
+
+    </POLICY>
+    
+
+  </POLICIES>
+  
+
+
+  <HAPPENINGS>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1770781595</TIMESTAMP>
+      
+
+      <TEXT>Following new legislation in @@testlandia@@, black tea is only available on the black market.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1770528474</TIMESTAMP>
+      
+
+      <TEXT>@@testlandia@@ was ranked in the Top 10% of the world for Most Advanced Defense Forces.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1770494666</TIMESTAMP>
+      
+
+      <TEXT>@@testlandia@@ changed its national nation type to &quot;Hive Mind&quot;.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1770494661</TIMESTAMP>
+      
+
+      <TEXT>@@testlandia@@ changed its national nation type to &quot;Hive Mind2&quot;.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1770494656</TIMESTAMP>
+      
+
+      <TEXT>@@testlandia@@ changed its national nation type to &quot;Hive Mind&quot;.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1770494647</TIMESTAMP>
+      
+
+      <TEXT>@@testlandia@@ changed its national nation type to &quot;Hive Mind2&quot;.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1770457577</TIMESTAMP>
+      
+
+      <TEXT>@@testlandia@@ voted against the World Assembly Resolution &quot;Repeal &quot;Prohibition Of Unwarranted Digital Surveillance&quot;&quot;.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1770269820</TIMESTAMP>
+      
+
+      <TEXT>Following new legislation in @@testlandia@@, contemporary art museums showcase the latest in centuries-old art.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1769231354</TIMESTAMP>
+      
+
+      <TEXT>@@testlandia@@ was ranked in the Top 10% of the world for Most Advanced Defense Forces.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1769169351</TIMESTAMP>
+      
+
+      <TEXT>Following new legislation in @@testlandia@@, appliance stores are finding spy cameras embedded in their unboxed merchandise.</TEXT>
+      
+
+    </EVENT>
+    
+
+
+  </HAPPENINGS>
+  
+
+  <ZOMBIE>
+    
+
+    <ZACTION>research</ZACTION>
+    
+
+    <ZACTIONINTENDED/>
+    
+
+    <SURVIVORS>917</SURVIVORS>
+    
+
+    <ZOMBIES>4263</ZOMBIES>
+    
+
+    <DEAD>43796</DEAD>
+    
+
+  </ZOMBIE>
+  
+
+</NATION>

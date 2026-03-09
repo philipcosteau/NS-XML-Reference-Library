@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<NATION id="testlandia">
+  
+
+  <GOVT>
+    
+ 
+    <ADMINISTRATION>3.0</ADMINISTRATION>
+    
+ 
+    <DEFENCE>12.1</DEFENCE>
+    
+ 
+    <EDUCATION>21.2</EDUCATION>
+    
+ 
+    <ENVIRONMENT>23.4</ENVIRONMENT>
+    
+ 
+    <HEALTHCARE>23.4</HEALTHCARE>
+    
+ 
+    <COMMERCE>5.0</COMMERCE>
+    
+ 
+    <INTERNATIONALAID>0.0</INTERNATIONALAID>
+    
+ 
+    <LAWANDORDER>6.1</LAWANDORDER>
+    
+ 
+    <PUBLICTRANSPORT>3.4</PUBLICTRANSPORT>
+    
+ 
+    <SOCIALEQUALITY>0.7</SOCIALEQUALITY>
+    
+ 
+    <SPIRITUALITY>0.0</SPIRITUALITY>
+    
+ 
+    <WELFARE>1.6</WELFARE>
+    
+
+  </GOVT>
+  
+
+</NATION>

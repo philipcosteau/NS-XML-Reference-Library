@@ -1,0 +1,156 @@
+<?xml version="1.0" ?>
+<NATION id="testlandia">
+  
+
+  <POLICIES>
+    
+
+    <POLICY>
+      
+
+      <NAME>Devolution</NAME>
+      
+
+      <PIC>t64</PIC>
+      
+
+      <CAT>Government</CAT>
+      
+
+      <DESC>Government power is substantially delegated to local authorities.</DESC>
+      
+
+    </POLICY>
+    
+
+    <POLICY>
+      
+
+      <NAME>Native Representation</NAME>
+      
+
+      <PIC>t42</PIC>
+      
+
+      <CAT>Government</CAT>
+      
+
+      <DESC>Only native-born citizens may hold elected office.</DESC>
+      
+
+    </POLICY>
+    
+
+    <POLICY>
+      
+
+      <NAME>Marriage Equality</NAME>
+      
+
+      <PIC>p25</PIC>
+      
+
+      <CAT>Society</CAT>
+      
+
+      <DESC>Citizens of the same sex may marry.</DESC>
+      
+
+    </POLICY>
+    
+
+    <POLICY>
+      
+
+      <NAME>Vegetarianism</NAME>
+      
+
+      <PIC>a5</PIC>
+      
+
+      <CAT>Society</CAT>
+      
+
+      <DESC>Vegetarianism is compulsory.</DESC>
+      
+
+    </POLICY>
+    
+
+    <POLICY>
+      
+
+      <NAME>Gun Control</NAME>
+      
+
+      <PIC>k2</PIC>
+      
+
+      <CAT>Law &amp; Order</CAT>
+      
+
+      <DESC>Citizens are forbidden from owning firearms.</DESC>
+      
+
+    </POLICY>
+    
+
+    <POLICY>
+      
+
+      <NAME>Capitalism</NAME>
+      
+
+      <PIC>i56</PIC>
+      
+
+      <CAT>Economy</CAT>
+      
+
+      <DESC>Private industry is permitted within a market-based economy.</DESC>
+      
+
+    </POLICY>
+    
+
+    <POLICY>
+      
+
+      <NAME>No Drugs</NAME>
+      
+
+      <PIC>r14</PIC>
+      
+
+      <CAT>Economy</CAT>
+      
+
+      <DESC>All recreational drugs are prohibited.</DESC>
+      
+
+    </POLICY>
+    
+
+    <POLICY>
+      
+
+      <NAME>Climate Treaty</NAME>
+      
+
+      <PIC>l10</PIC>
+      
+
+      <CAT>International</CAT>
+      
+
+      <DESC>The nation is a signatory to an international climate treaty.</DESC>
+      
+
+    </POLICY>
+    
+
+  </POLICIES>
+  
+
+
+</NATION>
