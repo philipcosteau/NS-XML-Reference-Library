@@ -1,0 +1,309 @@
+<?xml version="1.0" ?>
+<WORLD>
+  
+
+  <NEWNATIONDETAILS>
+    <NEWNATION name="rado_aazazaazzzaazaazaa">
+      <REGION>empire_of_great_britain</REGION>
+      <FOUNDEDTIME>1773044468</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="lossantos">
+      <REGION>the_north_pacific</REGION>
+      <FOUNDEDTIME>1773044415</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzzaazaaaza">
+      <REGION>the_east_pacific</REGION>
+      <FOUNDEDTIME>1773044411</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzzaaazzzza">
+      <REGION>the_east_pacific</REGION>
+      <FOUNDEDTIME>1773044353</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzzaaazzzaa">
+      <REGION>the_pacific</REGION>
+      <FOUNDEDTIME>1773044296</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="grace_park_airfield">
+      <REGION>the_east_pacific</REGION>
+      <FOUNDEDTIME>1773044283</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzzaaazzaza">
+      <REGION>europeia</REGION>
+      <FOUNDEDTIME>1773044240</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzzaaazazza">
+      <REGION>carcassonne</REGION>
+      <FOUNDEDTIME>1773044184</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzzaaazazaa">
+      <REGION>the_south_pacific</REGION>
+      <FOUNDEDTIME>1773044128</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzzaaazaaza">
+      <REGION>concord</REGION>
+      <FOUNDEDTIME>1773044073</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="pasig_airfield">
+      <REGION>the_pacific</REGION>
+      <FOUNDEDTIME>1773044028</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzzaaaazzza">
+      <REGION>the_south_pacific</REGION>
+      <FOUNDEDTIME>1773044018</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzzaaaazzaa">
+      <REGION>the_east_pacific</REGION>
+      <FOUNDEDTIME>1773043964</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzzaaaazaza">
+      <REGION>the_citrus_sea</REGION>
+      <FOUNDEDTIME>1773043910</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="-everest-">
+      <REGION>new_united_kingdom</REGION>
+      <FOUNDEDTIME>1773043896</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzazzzzazza">
+      <REGION>the_south_pacific</REGION>
+      <FOUNDEDTIME>1773043856</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzazzzzazaa">
+      <REGION>the_pacific</REGION>
+      <FOUNDEDTIME>1773043803</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzazzzzaaza">
+      <REGION>the_pacific</REGION>
+      <FOUNDEDTIME>1773043750</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzazzzazzza">
+      <REGION>saint_osmund</REGION>
+      <FOUNDEDTIME>1773043698</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzazzzazzaa">
+      <REGION>vibonia</REGION>
+      <FOUNDEDTIME>1773043646</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzazzzazaza">
+      <REGION>communitas</REGION>
+      <FOUNDEDTIME>1773043594</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzazzzaazza">
+      <REGION>the_east_pacific</REGION>
+      <FOUNDEDTIME>1773043543</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzazzzaazaa">
+      <REGION>communitas</REGION>
+      <FOUNDEDTIME>1773043492</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzazzzaaaza">
+      <REGION>the_umns</REGION>
+      <FOUNDEDTIME>1773043442</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzazzazzzza">
+      <REGION>vibonia</REGION>
+      <FOUNDEDTIME>1773043392</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzazzazzzaa">
+      <REGION>the_east_pacific</REGION>
+      <FOUNDEDTIME>1773043343</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzazzazzaza">
+      <REGION>the_east_pacific</REGION>
+      <FOUNDEDTIME>1773043294</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzazzazazza">
+      <REGION>empire_of_great_britain</REGION>
+      <FOUNDEDTIME>1773043245</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="emirtain">
+      <REGION>the_south_pacific</REGION>
+      <FOUNDEDTIME>1773043229</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="modak">
+      <REGION>the_south_pacific</REGION>
+      <FOUNDEDTIME>1773043207</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzazzazazaa">
+      <REGION>the_east_pacific</REGION>
+      <FOUNDEDTIME>1773043197</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzazzazaaza">
+      <REGION>the_east_pacific</REGION>
+      <FOUNDEDTIME>1773043148</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzazzaazzza">
+      <REGION>empire_of_great_britain</REGION>
+      <FOUNDEDTIME>1773043100</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzazzaazzaa">
+      <REGION>the_northern_atlantic</REGION>
+      <FOUNDEDTIME>1773043053</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzazzaazaza">
+      <REGION>the_new_atlantic_federation_frontier</REGION>
+      <FOUNDEDTIME>1773043006</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzazazzazza">
+      <REGION>new_united_kingdom</REGION>
+      <FOUNDEDTIME>1773042959</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzazazzazaa">
+      <REGION>the_north_pacific</REGION>
+      <FOUNDEDTIME>1773042913</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzazazzaaza">
+      <REGION>the_east_pacific</REGION>
+      <FOUNDEDTIME>1773042867</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzazazazzza">
+      <REGION>the_north_pacific</REGION>
+      <FOUNDEDTIME>1773042821</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="oneheart">
+      <REGION>empire_of_great_britain</REGION>
+      <FOUNDEDTIME>1773042786</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzazazazzaa">
+      <REGION>carcassonne</REGION>
+      <FOUNDEDTIME>1773042776</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzazazazaza">
+      <REGION>alliance_of_non_regional_nation</REGION>
+      <FOUNDEDTIME>1773042732</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="united_flancess_tritzbo">
+      <REGION>the_east_pacific</REGION>
+      <FOUNDEDTIME>1773042718</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzazazaazza">
+      <REGION>carcassonne</REGION>
+      <FOUNDEDTIME>1773042685</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzazazaazaa">
+      <REGION>empire_of_great_britain</REGION>
+      <FOUNDEDTIME>1773042640</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzazazaaaza">
+      <REGION>the_south_pacific</REGION>
+      <FOUNDEDTIME>1773042597</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzazaazzzza">
+      <REGION>the_west_pacific</REGION>
+      <FOUNDEDTIME>1773042554</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="rado_aazazaazzazaazzzaa">
+      <REGION>talonia</REGION>
+      <FOUNDEDTIME>1773042512</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="gernhaum">
+      <REGION>the_west_pacific</REGION>
+      <FOUNDEDTIME>1773042504</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+    <NEWNATION name="mark10281">
+      <REGION>the_east_pacific</REGION>
+      <FOUNDEDTIME>1773042483</FOUNDEDTIME>
+    </NEWNATION>
+    
+
+  </NEWNATIONDETAILS>
+  
+
+</WORLD>

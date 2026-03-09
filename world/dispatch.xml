@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<WORLD>
+  
+
+  <DISPATCH id="1">
+    
+
+    <TITLE><![CDATA[How to Write a Dispatch]]></TITLE>
+    
+
+    <AUTHOR>testlandia</AUTHOR>
+    
+
+    <CATEGORY>Meta</CATEGORY>
+    
+
+    <SUBCATEGORY>Reference</SUBCATEGORY>
+    
+
+    <CREATED>1332332021</CREATED>
+    
+
+    <EDITED>1415948041</EDITED>
+    
+
+    <VIEWS>37126</VIEWS>
+    
+
+    <SCORE>862</SCORE>
+    
+
+    <TEXT><![CDATA[[font=Courier][u]To view the NScode used to create this dispatch, [url=http://www.nationstates.net/page=dispatch/id=1/raw=1]click here[/url].[/u] All dispatches have a "Raw" link at the very bottom right that allows you to view their raw NScode.[/font]
+
+[box][b][font=Times New Roman][size=180]This is a test, appropriately enough![/size][/font][/b][/box]
+[floatright][img]http://www.nationstates.net/images/flags/Australia.png[/img][/floatright]
+There are many BBcode/NScode tags to be implemented. For example, this paragraph is testing floating an image to the right. Hello, image!
+
+[tab=60]This is indented a little, with the tab code.[/tab]
+
+Moving on, we have a table. Notice the first row is automatically nifty-fied.
+[table][tr][td]Hello to the first row[/td][td]Next cell[/td][/tr]
+[tr][td]Second row[/td][td]Next cell[/td][/tr]
+[tr][td]Third row[/td][td]Next cell[/td][/tr]
+[tr][td]Fourth row, which goes on at some length about nothing. It also has a line break in it. Here it comes. Ready? Okay!! Here it is!!
+
+See?[/td][td]Next cell[/td][/tr]
+[tr][td]Hovering over a row highlights it[/td][td]Not bad, eh?[/td][/tr]
+[/table]
+
+A link to [url=http://www.nationstates.net/page=news]the News page[/url] looks like normal, because it's internal to the game. But a link to [url=http://www.maxbarry.com]an external site[/url] gets a little icon to signify that.
+
+[u]Minor bug:[/u] links to subdomains like [url=http://liberal.nationstates.net/]liberal NS[/url] are treated as external.
+
+[url=http://forum.nationstates.net/index.php]Forum links[/url] have their own little icon.
+
+You don't need to use tags if you're simply pasting in a link to somewhere on NS: it gets automatically URL-ified, like this: http://www.nationstates.net/region=lazarus#rmb ...or this: http://forum.nationstates.net/viewtopic.php?f=23&amp;t=170154
+
+[hr]
+
+Naturally, we support the common NATION and REGION tags.
+
+The very first region in NationStates was [region]The Pacific[/region]. 
+
+I am [nation]Testlandia[/nation]. Or [nation=short]Testlandia[/nation] for short. But you can simply call me [nation=short+noflag]Testlandia[/nation].
+
+You can use UTF-8 characters natively. See: 𝄞
+
+[hr]
+
+[b]Now in testing:[/b] Spoilers! These come in two forms:
+
+[spoiler]The kind with no special title set.[/spoiler]
+
+[spoiler=Super Advanced Spoiler][align=center][box]The kind that do have a title set.
+
+This one has a few other tags inside the spoiler to make it extra fancy: the BOX and ALIGN tags, as well as having a title set with SPOILER=title. But you can't embed a spoiler within another spoiler![/box][/align][/spoiler]
+
+[hr]
+
+[b]Lists![/b]
+
+You can have nested [i]and[/i] independent lists. So this works:
+[list][*]First item
+[*]Second item
+[list][*]sub-list item 1
+[*]sub-list item 2[/list]
+[*]Third item
+[/list]
+... and so does this:
+[list=i][*]List style here is 'i'
+[*]You can also have '1' for numbers
+[*]And 'a' for latin
+[*]Plus 'A' or 'I' for as above, only capitalized[/list]
+
+[background-block=#DADAD2]A "fake" list, with background:
+ One
+ Two
+ Three
+ Four
+ Five
+[/background-block]
+
+If you screw up a list, the formatting will break your dispatch, but not the whole page. For example:
+[list][*]Here is a list that
+[*]I should have closed it with a /list tag
+[*]But I forgot.
+
+Now everything below is in the list! Oh oh!
+
+Luckily, though, it doesn't screw up the entire page.]]></TEXT>
+    
+
+  </DISPATCH>
+  
+
+
+</WORLD>
