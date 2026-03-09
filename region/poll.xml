@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<REGION id="the_pacific">
+  
+
+  <POLL id="322977">
+    
+
+    <TITLE><![CDATA[What are YOU this N-Day?]]></TITLE>
+    
+
+    <TEXT><![CDATA[Poll brought to you by the Polls Office! If you have any poll ideas, or interest in the Polls Office, talk to the Dushina (the Pollmaster)!]]></TEXT>
+    
+
+    <REGION>the_pacific</REGION>
+    
+
+    <START>1772923240</START>
+    
+
+    <STOP>1773182440</STOP>
+    
+
+    <AUTHOR>dushina</AUTHOR>
+    
+
+    <OPTIONS>
+      
+
+      <OPTION id="0">
+        
+
+        <OPTIONTEXT><![CDATA[Economic Specialist]]></OPTIONTEXT>
+        
+
+        <VOTES>5</VOTES>
+        
+
+        <VOTERS>dushina:dark_chaos_insurgency:llan:new_klothia:usdrk</VOTERS>
+        
+
+      </OPTION>
+      
+
+      <OPTION id="1">
+        
+
+        <OPTIONTEXT><![CDATA[Military Specialist]]></OPTIONTEXT>
+        
+
+        <VOTES>5</VOTES>
+        
+
+        <VOTERS>karenus:empire_of_beldemark:the_sernetian_empire:bahalbha_island:kalendaa</VOTERS>
+        
+
+      </OPTION>
+      
+
+      <OPTION id="2">
+        
+
+        <OPTIONTEXT><![CDATA[Strategic Specialist]]></OPTIONTEXT>
+        
+
+        <VOTES>6</VOTES>
+        
+
+        <VOTERS>saint_nardine:southeast_aarde:krzyzewskiville:noobia_and_solare:tir_rois:aquilla_phi</VOTERS>
+        
+
+      </OPTION>
+      
+
+      <OPTION id="3">
+        
+
+        <OPTIONTEXT><![CDATA[Intel Specialist]]></OPTIONTEXT>
+        
+
+        <VOTES>1</VOTES>
+        
+
+        <VOTERS>bostro</VOTERS>
+        
+
+      </OPTION>
+      
+
+      <OPTION id="4">
+        
+
+        <OPTIONTEXT><![CDATA[Not Participating]]></OPTIONTEXT>
+        
+
+        <VOTES>14</VOTES>
+        
+
+        <VOTERS>aethelia:nieuw_stenenland:voxija:the_municipalities_of_antarctica:true_europa_state:issime:borkmaster:rho_ophiuchi:ulm-memmingen:ceilikkell:zamboa:neu-friedland:the_greater_holy_state_of_israel:the_grand_emirate</VOTERS>
+        
+
+      </OPTION>
+      
+
+    </OPTIONS>
+    
+
+  </POLL>
+  
+
+
+</REGION>

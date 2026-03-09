@@ -1,0 +1,1361 @@
+<?xml version="1.0" ?>
+<REGION id="the_pacific">
+  
+
+  <CENSUS>
+    
+
+    <SCALE id="0">
+      
+
+      <SCORE>52.99</SCORE>
+      
+
+      <RANK>21623</RANK>
+      
+
+      <PRANK>60</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="1">
+      
+
+      <SCORE>59.40</SCORE>
+      
+
+      <RANK>18654</RANK>
+      
+
+      <PRANK>52</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="2">
+      
+
+      <SCORE>53.25</SCORE>
+      
+
+      <RANK>21746</RANK>
+      
+
+      <PRANK>60</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="3">
+      
+
+      <SCORE>2453070000</SCORE>
+      
+
+      <RANK>23644</RANK>
+      
+
+      <PRANK>65</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="4">
+      
+
+      <SCORE>9.74</SCORE>
+      
+
+      <RANK>7706</RANK>
+      
+
+      <PRANK>22</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="5">
+      
+
+      <SCORE>36.61</SCORE>
+      
+
+      <RANK>9077</RANK>
+      
+
+      <PRANK>25</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="6">
+      
+
+      <SCORE>44.10</SCORE>
+      
+
+      <RANK>8201</RANK>
+      
+
+      <PRANK>23</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="7">
+      
+
+      <SCORE>1071.36</SCORE>
+      
+
+      <RANK>7742</RANK>
+      
+
+      <PRANK>22</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="8">
+      
+
+      <SCORE>51.09</SCORE>
+      
+
+      <RANK>15636</RANK>
+      
+
+      <PRANK>43</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="9">
+      
+
+      <SCORE>150.36</SCORE>
+      
+
+      <RANK>12653</RANK>
+      
+
+      <PRANK>35</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="10">
+      
+
+      <SCORE>1723.16</SCORE>
+      
+
+      <RANK>15678</RANK>
+      
+
+      <PRANK>43</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="11">
+      
+
+      <SCORE>1884.03</SCORE>
+      
+
+      <RANK>15902</RANK>
+      
+
+      <PRANK>44</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="12">
+      
+
+      <SCORE>2234.30</SCORE>
+      
+
+      <RANK>14925</RANK>
+      
+
+      <PRANK>41</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="13">
+      
+
+      <SCORE>6181.01</SCORE>
+      
+
+      <RANK>7473</RANK>
+      
+
+      <PRANK>21</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="14">
+      
+
+      <SCORE>1737.55</SCORE>
+      
+
+      <RANK>14316</RANK>
+      
+
+      <PRANK>40</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="15">
+      
+
+      <SCORE>2507.77</SCORE>
+      
+
+      <RANK>12963</RANK>
+      
+
+      <PRANK>36</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="16">
+      
+
+      <SCORE>4567.29</SCORE>
+      
+
+      <RANK>11594</RANK>
+      
+
+      <PRANK>32</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="17">
+      
+
+      <SCORE>2135.98</SCORE>
+      
+
+      <RANK>15421</RANK>
+      
+
+      <PRANK>43</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="18">
+      
+
+      <SCORE>1413.39</SCORE>
+      
+
+      <RANK>15314</RANK>
+      
+
+      <PRANK>42</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="19">
+      
+
+      <SCORE>2003.99</SCORE>
+      
+
+      <RANK>16466</RANK>
+      
+
+      <PRANK>46</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="20">
+      
+
+      <SCORE>2473.64</SCORE>
+      
+
+      <RANK>15114</RANK>
+      
+
+      <PRANK>42</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="21">
+      
+
+      <SCORE>1811.31</SCORE>
+      
+
+      <RANK>13942</RANK>
+      
+
+      <PRANK>39</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="22">
+      
+
+      <SCORE>2009.39</SCORE>
+      
+
+      <RANK>15208</RANK>
+      
+
+      <PRANK>42</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="23">
+      
+
+      <SCORE>2564.84</SCORE>
+      
+
+      <RANK>12751</RANK>
+      
+
+      <PRANK>35</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="24">
+      
+
+      <SCORE>3246.43</SCORE>
+      
+
+      <RANK>11206</RANK>
+      
+
+      <PRANK>31</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="25">
+      
+
+      <SCORE>1952.64</SCORE>
+      
+
+      <RANK>14654</RANK>
+      
+
+      <PRANK>41</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="26">
+      
+
+      <SCORE>8531.16</SCORE>
+      
+
+      <RANK>13244</RANK>
+      
+
+      <PRANK>37</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="27">
+      
+
+      <SCORE>14.74</SCORE>
+      
+
+      <RANK>11244</RANK>
+      
+
+      <PRANK>31</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="28">
+      
+
+      <SCORE>1510.11</SCORE>
+      
+
+      <RANK>8996</RANK>
+      
+
+      <PRANK>25</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="29">
+      
+
+      <SCORE>1781.26</SCORE>
+      
+
+      <RANK>7981</RANK>
+      
+
+      <PRANK>22</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="30">
+      
+
+      <SCORE>1991.72</SCORE>
+      
+
+      <RANK>10266</RANK>
+      
+
+      <PRANK>29</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="31">
+      
+
+      <SCORE>1501.21</SCORE>
+      
+
+      <RANK>10170</RANK>
+      
+
+      <PRANK>28</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="32">
+      
+
+      <SCORE>557.97</SCORE>
+      
+
+      <RANK>8920</RANK>
+      
+
+      <PRANK>25</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="33">
+      
+
+      <SCORE>37.65</SCORE>
+      
+
+      <RANK>12611</RANK>
+      
+
+      <PRANK>35</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="34">
+      
+
+      <SCORE>15.10</SCORE>
+      
+
+      <RANK>6692</RANK>
+      
+
+      <PRANK>19</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="35">
+      
+
+      <SCORE>52.85</SCORE>
+      
+
+      <RANK>12335</RANK>
+      
+
+      <PRANK>34</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="36">
+      
+
+      <SCORE>35.45</SCORE>
+      
+
+      <RANK>7339</RANK>
+      
+
+      <PRANK>21</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="37">
+      
+
+      <SCORE>12.77</SCORE>
+      
+
+      <RANK>20212</RANK>
+      
+
+      <PRANK>56</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="38">
+      
+
+      <SCORE>48.97</SCORE>
+      
+
+      <RANK>27970</RANK>
+      
+
+      <PRANK>77</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="39">
+      
+
+      <SCORE>3.74</SCORE>
+      
+
+      <RANK>7544</RANK>
+      
+
+      <PRANK>21</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="40">
+      
+
+      <SCORE>50.58</SCORE>
+      
+
+      <RANK>8654</RANK>
+      
+
+      <PRANK>24</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="41">
+      
+
+      <SCORE>104.90</SCORE>
+      
+
+      <RANK>10593</RANK>
+      
+
+      <PRANK>30</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="42">
+      
+
+      <SCORE>65.42</SCORE>
+      
+
+      <RANK>9107</RANK>
+      
+
+      <PRANK>25</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="43">
+      
+
+      <SCORE>75.52</SCORE>
+      
+
+      <RANK>11943</RANK>
+      
+
+      <PRANK>33</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="44">
+      
+
+      <SCORE>72.75</SCORE>
+      
+
+      <RANK>9448</RANK>
+      
+
+      <PRANK>26</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="45">
+      
+
+      <SCORE>18.98</SCORE>
+      
+
+      <RANK>16942</RANK>
+      
+
+      <PRANK>47</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="46">
+      
+
+      <SCORE>2363.55</SCORE>
+      
+
+      <RANK>9585</RANK>
+      
+
+      <PRANK>27</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="47">
+      
+
+      <SCORE>70.48</SCORE>
+      
+
+      <RANK>14035</RANK>
+      
+
+      <PRANK>39</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="48">
+      
+
+      <SCORE>23.60</SCORE>
+      
+
+      <RANK>26945</RANK>
+      
+
+      <PRANK>74</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="49">
+      
+
+      <SCORE>34.48</SCORE>
+      
+
+      <RANK>14170</RANK>
+      
+
+      <PRANK>39</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="50">
+      
+
+      <SCORE>23.51</SCORE>
+      
+
+      <RANK>28708</RANK>
+      
+
+      <PRANK>79</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="51">
+      
+
+      <SCORE>19.66</SCORE>
+      
+
+      <RANK>8967</RANK>
+      
+
+      <PRANK>25</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="52">
+      
+
+      <SCORE>90.27</SCORE>
+      
+
+      <RANK>30190</RANK>
+      
+
+      <PRANK>83</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="53">
+      
+
+      <SCORE>1200.04</SCORE>
+      
+
+      <RANK>8258</RANK>
+      
+
+      <PRANK>23</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="54">
+      
+
+      <SCORE>-5.11</SCORE>
+      
+
+      <RANK>28045</RANK>
+      
+
+      <PRANK>77</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="55">
+      
+
+      <SCORE>72.86</SCORE>
+      
+
+      <RANK>5219</RANK>
+      
+
+      <PRANK>15</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="56">
+      
+
+      <SCORE>67.37</SCORE>
+      
+
+      <RANK>23085</RANK>
+      
+
+      <PRANK>64</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="57">
+      
+
+      <SCORE>950.56</SCORE>
+      
+
+      <RANK>9822</RANK>
+      
+
+      <PRANK>27</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="58">
+      
+
+      <SCORE>694.22</SCORE>
+      
+
+      <RANK>10672</RANK>
+      
+
+      <PRANK>30</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="59">
+      
+
+      <SCORE>0.99</SCORE>
+      
+
+      <RANK>10287</RANK>
+      
+
+      <PRANK>29</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="60">
+      
+
+      <SCORE>142.95</SCORE>
+      
+
+      <RANK>15223</RANK>
+      
+
+      <PRANK>42</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="61">
+      
+
+      <SCORE>10.87</SCORE>
+      
+
+      <RANK>16288</RANK>
+      
+
+      <PRANK>45</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="62">
+      
+
+      <SCORE>24.31</SCORE>
+      
+
+      <RANK>6770</RANK>
+      
+
+      <PRANK>19</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="63">
+      
+
+      <SCORE>637.54</SCORE>
+      
+
+      <RANK>6435</RANK>
+      
+
+      <PRANK>18</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="64">
+      
+
+      <SCORE>15.98</SCORE>
+      
+
+      <RANK>7697</RANK>
+      
+
+      <PRANK>22</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="65">
+      
+
+      <SCORE>756.10</SCORE>
+      
+
+      <RANK>15094</RANK>
+      
+
+      <PRANK>42</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="66">
+      
+
+      <SCORE>1.41</SCORE>
+      
+
+      <RANK>87</RANK>
+      
+
+      <PRANK>0.3</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="67">
+      
+
+      <SCORE>36.03</SCORE>
+      
+
+      <RANK>19502</RANK>
+      
+
+      <PRANK>54</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="68">
+      
+
+      <SCORE>58.25</SCORE>
+      
+
+      <RANK>11003</RANK>
+      
+
+      <PRANK>31</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="69">
+      
+
+      <SCORE>-66.45</SCORE>
+      
+
+      <RANK>24573</RANK>
+      
+
+      <PRANK>68</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="70">
+      
+
+      <SCORE>96.67</SCORE>
+      
+
+      <RANK>8023</RANK>
+      
+
+      <PRANK>23</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="71">
+      
+
+      <SCORE>112.53</SCORE>
+      
+
+      <RANK>4402</RANK>
+      
+
+      <PRANK>13</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="72">
+      
+
+      <SCORE>65842.95</SCORE>
+      
+
+      <RANK>9619</RANK>
+      
+
+      <PRANK>27</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="73">
+      
+
+      <SCORE>35540.93</SCORE>
+      
+
+      <RANK>7294</RANK>
+      
+
+      <PRANK>21</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="74">
+      
+
+      <SCORE>138925</SCORE>
+      
+
+      <RANK>12515</RANK>
+      
+
+      <PRANK>35</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="75">
+      
+
+      <SCORE>2489.69</SCORE>
+      
+
+      <RANK>7364</RANK>
+      
+
+      <PRANK>21</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="76">
+      
+
+      <SCORE>369892000000000</SCORE>
+      
+
+      <RANK>14930</RANK>
+      
+
+      <PRANK>41</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="77">
+      
+
+      <SCORE>6.65</SCORE>
+      
+
+      <RANK>20210</RANK>
+      
+
+      <PRANK>56</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="78">
+      
+
+      <SCORE>376.37</SCORE>
+      
+
+      <RANK>9750</RANK>
+      
+
+      <PRANK>27</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="79">
+      
+
+      <SCORE>109366400000000</SCORE>
+      
+
+      <RANK>2987</RANK>
+      
+
+      <PRANK>9</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="80">
+      
+
+      <SCORE>290.09625232077</SCORE>
+      
+
+      <RANK>23113</RANK>
+      
+
+      <PRANK>64</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="81">
+      
+
+      <SCORE>107150000</SCORE>
+      
+
+      <RANK>14794</RANK>
+      
+
+      <PRANK>41</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="82">
+      
+
+      <SCORE>788790000</SCORE>
+      
+
+      <RANK>21978</RANK>
+      
+
+      <PRANK>61</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="83">
+      
+
+      <SCORE>2143250000</SCORE>
+      
+
+      <RANK>21897</RANK>
+      
+
+      <PRANK>61</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="84">
+      
+
+      <SCORE>78.22</SCORE>
+      
+
+      <RANK>33013</RANK>
+      
+
+      <PRANK>91</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="85">
+      
+
+      <SCORE>37939.43</SCORE>
+      
+
+      <RANK>15423</RANK>
+      
+
+      <PRANK>43</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="86">
+      
+
+      <SCORE>315.05</SCORE>
+      
+
+      <RANK>578</RANK>
+      
+
+      <PRANK>2</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="87">
+      
+
+      <SCORE>14.80</SCORE>
+      
+
+      <RANK>10030</RANK>
+      
+
+      <PRANK>28</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="88">
+      
+
+      <SCORE>34.70</SCORE>
+      
+
+      <RANK>5314</RANK>
+      
+
+      <PRANK>15</PRANK>
+      
+
+    </SCALE>
+    
+
+    <SCALE id="89">
+      
+
+      <SCORE>300.96</SCORE>
+      
+
+      <RANK>9628</RANK>
+      
+
+      <PRANK>27</PRANK>
+      
+
+    </SCALE>
+    
+
+  </CENSUS>
+  
+
+</REGION>

@@ -1,0 +1,276 @@
+<?xml version="1.0" ?>
+<REGION id="the_pacific">
+  
+
+  <OFFICERS>
+    
+
+    <OFFICER>
+      <NATION>airengard</NATION>
+      
+
+      <OFFICE>Security Officer</OFFICE>
+      
+
+      <AUTHORITY>BCP</AUTHORITY>
+      
+
+      <TIME>1743655738</TIME>
+      
+
+      <BY>marinas_island</BY>
+      
+
+      <ORDER>8</ORDER>
+      
+
+    </OFFICER>
+    
+
+    <OFFICER>
+      <NATION>belleroph</NATION>
+      
+
+      <OFFICE>Security Officer</OFFICE>
+      
+
+      <AUTHORITY>BCP</AUTHORITY>
+      
+
+      <TIME>1770694605</TIME>
+      
+
+      <BY>pasybfic</BY>
+      
+
+      <ORDER>9</ORDER>
+      
+
+    </OFFICER>
+    
+
+    <OFFICER>
+      <NATION>dushina</NATION>
+      
+
+      <OFFICE>Pollmaster</OFFICE>
+      
+
+      <AUTHORITY>P</AUTHORITY>
+      
+
+      <TIME>1742478900</TIME>
+      
+
+      <BY>marinas_island</BY>
+      
+
+      <ORDER>5</ORDER>
+      
+
+    </OFFICER>
+    
+
+    <OFFICER>
+      <NATION>east_durthang</NATION>
+      
+
+      <OFFICE>Imperator Emeritus</OFFICE>
+      
+
+      <AUTHORITY>ABCEP</AUTHORITY>
+      
+
+      <TIME>1722726451</TIME>
+      
+
+      <BY>xoriet</BY>
+      
+
+      <ORDER>7</ORDER>
+      
+
+    </OFFICER>
+    
+
+    <OFFICER>
+      <NATION>end666</NATION>
+      
+
+      <OFFICE>Security Officer</OFFICE>
+      
+
+      <AUTHORITY>BCP</AUTHORITY>
+      
+
+      <TIME>1766418178</TIME>
+      
+
+      <BY>pasybfic</BY>
+      
+
+      <ORDER>10</ORDER>
+      
+
+    </OFFICER>
+    
+
+    <OFFICER>
+      <NATION>flame_of_dio</NATION>
+      
+
+      <OFFICE>Regent</OFFICE>
+      
+
+      <AUTHORITY>ABCEP</AUTHORITY>
+      
+
+      <TIME>1762958614</TIME>
+      
+
+      <BY>marinas_island</BY>
+      
+
+      <ORDER>1</ORDER>
+      
+
+    </OFFICER>
+    
+
+    <OFFICER>
+      <NATION>ghost_queen</NATION>
+      
+
+      <OFFICE>Senator of Internal Affairs</OFFICE>
+      
+
+      <AUTHORITY>ABCEP</AUTHORITY>
+      
+
+      <TIME>1725586579</TIME>
+      
+
+      <BY>xoriet</BY>
+      
+
+      <ORDER>3</ORDER>
+      
+
+    </OFFICER>
+    
+
+    <OFFICER>
+      <NATION>krzyzewskiville</NATION>
+      
+
+      <OFFICE>Senator of Diplomatic Affairs</OFFICE>
+      
+
+      <AUTHORITY>ABCEP</AUTHORITY>
+      
+
+      <TIME>1766417360</TIME>
+      
+
+      <BY>pasybfic</BY>
+      
+
+      <ORDER>2</ORDER>
+      
+
+    </OFFICER>
+    
+
+    <OFFICER>
+      <NATION>neo_romana_ii</NATION>
+      
+
+      <OFFICE>Security Officer</OFFICE>
+      
+
+      <AUTHORITY>BCP</AUTHORITY>
+      
+
+      <TIME>1766418469</TIME>
+      
+
+      <BY>pasybfic</BY>
+      
+
+      <ORDER>12</ORDER>
+      
+
+    </OFFICER>
+    
+
+    <OFFICER>
+      <NATION>pathonia</NATION>
+      
+
+      <OFFICE>Senator of Internal Affairs</OFFICE>
+      
+
+      <AUTHORITY>ABCEP</AUTHORITY>
+      
+
+      <TIME>1762958735</TIME>
+      
+
+      <BY>marinas_island</BY>
+      
+
+      <ORDER>4</ORDER>
+      
+
+    </OFFICER>
+    
+
+    <OFFICER>
+      <NATION>pierconium</NATION>
+      
+
+      <OFFICE>Imperator Emeritus</OFFICE>
+      
+
+      <AUTHORITY>ABCEP</AUTHORITY>
+      
+
+      <TIME>1570287565</TIME>
+      
+
+      <BY>east_durthang</BY>
+      
+
+      <ORDER>6</ORDER>
+      
+
+    </OFFICER>
+    
+
+    <OFFICER>
+      <NATION>the_seeker_of_power</NATION>
+      
+
+      <OFFICE>Security Officer</OFFICE>
+      
+
+      <AUTHORITY>BCP</AUTHORITY>
+      
+
+      <TIME>1757942915</TIME>
+      
+
+      <BY>marinas_island</BY>
+      
+
+      <ORDER>11</ORDER>
+      
+
+    </OFFICER>
+    
+
+
+  </OFFICERS>
+  
+
+</REGION>

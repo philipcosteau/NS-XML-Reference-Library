@@ -1,0 +1,2184 @@
+<?xml version="1.0" ?>
+<REGION id="the_pacific">
+  
+
+  <HISTORY>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1765907640</TIMESTAMP>
+      
+
+      <TEXT>@@pasybfic@@ elected WA Delegate (ending @@marinas_island@@'s reign after 317 days).</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1763314785</TIMESTAMP>
+      
+
+      <TEXT>EC:the_north_pacific.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1762149429</TIMESTAMP>
+      
+
+      <TEXT>EC:the_league.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1761321798</TIMESTAMP>
+      
+
+      <TEXT>EC:talonia.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1756613763</TIMESTAMP>
+      
+
+      <TEXT>EO:the_kodiak_republic.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1749101442</TIMESTAMP>
+      
+
+      <TEXT>EO:solstice.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1747542436</TIMESTAMP>
+      
+
+      <TEXT>EO:house_elegarth.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1746765792</TIMESTAMP>
+      
+
+      <TEXT>EC:europeia.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1744778816</TIMESTAMP>
+      
+
+      <TEXT>EC:the_west_pacific.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1744695356</TIMESTAMP>
+      
+
+      <TEXT>EC:the_plains_of_perdition.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1744693624</TIMESTAMP>
+      
+
+      <TEXT>EC:the_order_of_the_grey_wardens.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1744689855</TIMESTAMP>
+      
+
+      <TEXT>EC:the_outback.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1738433861</TIMESTAMP>
+      
+
+      <TEXT>@@marinas_island@@ elected WA Delegate (ending @@xoriet@@'s reign after 183 days).</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1738126950</TIMESTAMP>
+      
+
+      <TEXT>EO:talonia.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1735712425</TIMESTAMP>
+      
+
+      <TEXT>EO:the_plains_of_perdition.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1734671051</TIMESTAMP>
+      
+
+      <TEXT>EO:the_outback.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1730090197</TIMESTAMP>
+      
+
+      <TEXT>EO:dawn.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1729225697</TIMESTAMP>
+      
+
+      <TEXT>EO:narnia.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1727582575</TIMESTAMP>
+      
+
+      <TEXT>EC:pacificcon.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1725598927</TIMESTAMP>
+      
+
+      <TEXT>EO:anteria.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1725597435</TIMESTAMP>
+      
+
+      <TEXT>EO:lands_end.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1725509281</TIMESTAMP>
+      
+
+      <TEXT>EO:blue_ridge.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1725425998</TIMESTAMP>
+      
+
+      <TEXT>EO:cape_of_good_hope.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1725424470</TIMESTAMP>
+      
+
+      <TEXT>EO:conch_kingdom.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1725424311</TIMESTAMP>
+      
+
+      <TEXT>EO:ridgefield.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1722617517</TIMESTAMP>
+      
+
+      <TEXT>@@xoriet@@ elected WA Delegate (ending @@east_durthang@@'s reign after 1999 days).</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1708150852</TIMESTAMP>
+      
+
+      <TEXT>EO:carcassonne.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1691815240</TIMESTAMP>
+      
+
+      <TEXT>EC:the_communist_bloc.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1676440342</TIMESTAMP>
+      
+
+      <TEXT>EO:the_league.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1674192460</TIMESTAMP>
+      
+
+      <TEXT>EO:lone_wolves_united.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1666801495</TIMESTAMP>
+      
+
+      <TEXT>EC:warzone_airspace.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1661490452</TIMESTAMP>
+      
+
+      <TEXT>EO:lazarus.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1656000886</TIMESTAMP>
+      
+
+      <TEXT>EC:warzone_europe.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1653022952</TIMESTAMP>
+      
+
+      <TEXT>EO:the_empire_of_draconic_states.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1640669819</TIMESTAMP>
+      
+
+      <TEXT>EC:nationstates_today.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1636521913</TIMESTAMP>
+      
+
+      <TEXT>EO:hell.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1633061891</TIMESTAMP>
+      
+
+      <TEXT>EO:the_communist_bloc.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1624637775</TIMESTAMP>
+      
+
+      <TEXT>EC:cookies_vault.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1622477953</TIMESTAMP>
+      
+
+      <TEXT>EC:the_bird_sanctuary.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1622304002</TIMESTAMP>
+      
+
+      <TEXT>Condemn resolution repealed.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1621225608</TIMESTAMP>
+      
+
+      <TEXT>EO:europeia.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1620537529</TIMESTAMP>
+      
+
+      <TEXT>EC:social_technocratic_union.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1620490544</TIMESTAMP>
+      
+
+      <TEXT>EC:the_rejected_realms.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1620188677</TIMESTAMP>
+      
+
+      <TEXT>EO:the_rejected_realms.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1615442190</TIMESTAMP>
+      
+
+      <TEXT>EO:lily.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1614014238</TIMESTAMP>
+      
+
+      <TEXT>EC:warzone_pacificcon.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1613625615</TIMESTAMP>
+      
+
+      <TEXT>EC:house_elegarth.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1612027109</TIMESTAMP>
+      
+
+      <TEXT>EO:the_bird_sanctuary.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1611595385</TIMESTAMP>
+      
+
+      <TEXT>EO:warzone_airspace.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1608531263</TIMESTAMP>
+      
+
+      <TEXT>EO:chitato.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1608528232</TIMESTAMP>
+      
+
+      <TEXT>EO:cookies_vault.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1608225549</TIMESTAMP>
+      
+
+      <TEXT>EO:arembia.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1607274392</TIMESTAMP>
+      
+
+      <TEXT>EO:vylixan_prime.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1604728193</TIMESTAMP>
+      
+
+      <TEXT>EO:card_captor_pacifica.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1594270001</TIMESTAMP>
+      
+
+      <TEXT>EO:warzone_asia.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1593795307</TIMESTAMP>
+      
+
+      <TEXT>EO:the_order_of_the_grey_wardens.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1591507054</TIMESTAMP>
+      
+
+      <TEXT>EC:the_pacifican_banhammer.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1588308263</TIMESTAMP>
+      
+
+      <TEXT>EO:nationstates_today.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1587878784</TIMESTAMP>
+      
+
+      <TEXT>EO:social_technocratic_union.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1587009836</TIMESTAMP>
+      
+
+      <TEXT>EO:new_duck_order.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1586147216</TIMESTAMP>
+      
+
+      <TEXT>EC:warzone_asia.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1585197669</TIMESTAMP>
+      
+
+      <TEXT>EO:the_pacifican_banhammer.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1584764631</TIMESTAMP>
+      
+
+      <TEXT>EO:warzone_pacificcon.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1584763387</TIMESTAMP>
+      
+
+      <TEXT>EO:pacificcon.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1581052830</TIMESTAMP>
+      
+
+      <TEXT>EC:francoism.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1580535116</TIMESTAMP>
+      
+
+      <TEXT>EO:the_west_pacific.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1580015990</TIMESTAMP>
+      
+
+      <TEXT>EO:house_elegarth.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1572584628</TIMESTAMP>
+      
+
+      <TEXT>EO:the_south_pacific.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1571848025</TIMESTAMP>
+      
+
+      <TEXT>EO:the_north_pacific.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1569773640</TIMESTAMP>
+      
+
+      <TEXT>EO:warzone_asia.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1569773237</TIMESTAMP>
+      
+
+      <TEXT>EO:warzone_europe.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1566967257</TIMESTAMP>
+      
+
+      <TEXT>EO:balder.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1559318916</TIMESTAMP>
+      
+
+      <TEXT>EC:new_roquentin_order.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1557850742</TIMESTAMP>
+      
+
+      <TEXT>EC:warzone_airspace.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1553141419</TIMESTAMP>
+      
+
+      <TEXT>EO:warzone_airspace.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1549820351</TIMESTAMP>
+      
+
+      <TEXT>@@east_durthang@@ elected WA Delegate.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1549819932</TIMESTAMP>
+      
+
+      <TEXT>@@aleisyr@@ lost WA Delegate status (reign: 911 days).</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1547875917</TIMESTAMP>
+      
+
+      <TEXT>EC:the_salazarstani_order.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1547746504</TIMESTAMP>
+      
+
+      <TEXT>EC:st_abbaddon.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1546984303</TIMESTAMP>
+      
+
+      <TEXT>EO:new_roquentin_order.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1546581117</TIMESTAMP>
+      
+
+      <TEXT>EC:communist_americas.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1544592250</TIMESTAMP>
+      
+
+      <TEXT>EC:the_south_pacific.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1544504873</TIMESTAMP>
+      
+
+      <TEXT>EC:imperium_of_the_wolf.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1543986002</TIMESTAMP>
+      
+
+      <TEXT>Condemned by Security Council Resolution # 268.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1543557117</TIMESTAMP>
+      
+
+      <TEXT>EC:the_rejected_realms.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1543556156</TIMESTAMP>
+      
+
+      <TEXT>EC:lazarus.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1543513222</TIMESTAMP>
+      
+
+      <TEXT>EC:balder.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1543513014</TIMESTAMP>
+      
+
+      <TEXT>EC:warzone_asia.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1543511472</TIMESTAMP>
+      
+
+      <TEXT>EC:the_north_pacific.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1543511100</TIMESTAMP>
+      
+
+      <TEXT>EC:warzone_sandbox.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1543471220</TIMESTAMP>
+      
+
+      <TEXT>EC:warzone_europe.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1543470288</TIMESTAMP>
+      
+
+      <TEXT>EC:osiris.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1543470008</TIMESTAMP>
+      
+
+      <TEXT>EC:the_communist_bloc.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1543468228</TIMESTAMP>
+      
+
+      <TEXT>EC:warzone_airspace.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1543382163</TIMESTAMP>
+      
+
+      <TEXT>EC:the_west_pacific.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1543340147</TIMESTAMP>
+      
+
+      <TEXT>EC:warzone_africa.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1543338036</TIMESTAMP>
+      
+
+      <TEXT>EC:warzone_australia.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1540959191</TIMESTAMP>
+      
+
+      <TEXT>EO:warzone_airspace.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1540094951</TIMESTAMP>
+      
+
+      <TEXT>EO:warzone_sandbox.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1538368300</TIMESTAMP>
+      
+
+      <TEXT>EO:the_salazarstani_order.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1538110302</TIMESTAMP>
+      
+
+      <TEXT>EC:kingdom_of_scotland.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1537591629</TIMESTAMP>
+      
+
+      <TEXT>EO:francoism.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1531714840</TIMESTAMP>
+      
+
+      <TEXT>EO:the_north_pacific.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1530852946</TIMESTAMP>
+      
+
+      <TEXT>EO:kingdom_of_scotland.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1525711638</TIMESTAMP>
+      
+
+      <TEXT>EC:fishmongolia.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1525322743</TIMESTAMP>
+      
+
+      <TEXT>EO:lazarus.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1522299783</TIMESTAMP>
+      
+
+      <TEXT>EO:warzone_africa.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1522127146</TIMESTAMP>
+      
+
+      <TEXT>EO:fishmongolia.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1521607227</TIMESTAMP>
+      
+
+      <TEXT>EC:lazarus.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1519926651</TIMESTAMP>
+      
+
+      <TEXT>EO:warzone_europe.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1519712233</TIMESTAMP>
+      
+
+      <TEXT>EO:warzone_asia.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1499834234</TIMESTAMP>
+      
+
+      <TEXT>EO:the_rejected_realms.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1497631130</TIMESTAMP>
+      
+
+      <TEXT>EO:st_abbaddon.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1496073636</TIMESTAMP>
+      
+
+      <TEXT>EO:warzone_australia.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1492920092</TIMESTAMP>
+      
+
+      <TEXT>EC:warzone_australia.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1487008711</TIMESTAMP>
+      
+
+      <TEXT>EO:communist_americas.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1478934636</TIMESTAMP>
+      
+
+      <TEXT>%%the_pacific%% became the Featured Region of the day.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1471066215</TIMESTAMP>
+      
+
+      <TEXT>@@aleisyr@@ elected WA Delegate (ending @@pierconium@@'s reign after 368 days).</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1469635201</TIMESTAMP>
+      
+
+      <TEXT>Condemn resolution repealed.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1467909012</TIMESTAMP>
+      
+
+      <TEXT>EO:lazarus.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1463630812</TIMESTAMP>
+      
+
+      <TEXT>EO:imperium_of_the_wolf.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1463547832</TIMESTAMP>
+      
+
+      <TEXT>EO:the_communist_bloc.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1463459065</TIMESTAMP>
+      
+
+      <TEXT>EC:the_north_pacific.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1463242020</TIMESTAMP>
+      
+
+      <TEXT>EO:the_western_isles.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1455167906</TIMESTAMP>
+      
+
+      <TEXT>EO:atlantic.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1452575777</TIMESTAMP>
+      
+
+      <TEXT>EO:the_west_pacific.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1452360207</TIMESTAMP>
+      
+
+      <TEXT>EO:the_south_pacific.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1448601756</TIMESTAMP>
+      
+
+      <TEXT>EO:the_north_pacific.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1447135497</TIMESTAMP>
+      
+
+      <TEXT>EO:osiris.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1445057892</TIMESTAMP>
+      
+
+      <TEXT>EO:the_new_pacific_order.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1444924838</TIMESTAMP>
+      
+
+      <TEXT>EO:warzone_australia.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1442117756</TIMESTAMP>
+      
+
+      <TEXT>EC:the_west_pacific.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1441814445</TIMESTAMP>
+      
+
+      <TEXT>EC:warzone_australia.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1440909026</TIMESTAMP>
+      
+
+      <TEXT>EO:the_east_pacific.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1440518828</TIMESTAMP>
+      
+
+      <TEXT>EC:warzone_sandbox.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1440173250</TIMESTAMP>
+      
+
+      <TEXT>EO:warzone_sandbox.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1440172845</TIMESTAMP>
+      
+
+      <TEXT>EO:warzone_australia.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1439568572</TIMESTAMP>
+      
+
+      <TEXT>EC:the_great_land_of_the_moon.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1439225703</TIMESTAMP>
+      
+
+      <TEXT>@@pierconium@@ elected WA Delegate (ending @@krulltopia@@'s reign after 2277 days).</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1430280001</TIMESTAMP>
+      
+
+      <TEXT>Condemned by Security Council Resolution # 177.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1429980245</TIMESTAMP>
+      
+
+      <TEXT>EC:lazarus.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1429547727</TIMESTAMP>
+      
+
+      <TEXT>EC:equilism.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1429246014</TIMESTAMP>
+      
+
+      <TEXT>EC:the_east_pacific.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1429161787</TIMESTAMP>
+      
+
+      <TEXT>EC:osiris.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1429159302</TIMESTAMP>
+      
+
+      <TEXT>EC:the_south_pacific.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1429117424</TIMESTAMP>
+      
+
+      <TEXT>EC:the_rejected_realms.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1429114947</TIMESTAMP>
+      
+
+      <TEXT>EC:the_north_pacific.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1420954944</TIMESTAMP>
+      
+
+      <TEXT>EO:osiris.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1409848519</TIMESTAMP>
+      
+
+      <TEXT>EC:osiris.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1385183145</TIMESTAMP>
+      
+
+      <TEXT>EC:warzone_airspace.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1379823258</TIMESTAMP>
+      
+
+      <TEXT>EO:mordor.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1379047037</TIMESTAMP>
+      
+
+      <TEXT>EC:europeia.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1377923749</TIMESTAMP>
+      
+
+      <TEXT>EO:the_south_pacific.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1375504647</TIMESTAMP>
+      
+
+      <TEXT>EO:osiris.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1373085595</TIMESTAMP>
+      
+
+      <TEXT>EC:unknown.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1373085595</TIMESTAMP>
+      
+
+      <TEXT>EC:osiris.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1373083346</TIMESTAMP>
+      
+
+      <TEXT>EC:gatesville_inc.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1369587244</TIMESTAMP>
+      
+
+      <TEXT>EO:warzone_airspace.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1368507489</TIMESTAMP>
+      
+
+      <TEXT>EC:the_south_pacific.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1364446244</TIMESTAMP>
+      
+
+      <TEXT>EO:unknown.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1364011389</TIMESTAMP>
+      
+
+      <TEXT>EO:gatesville_inc.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1338050580</TIMESTAMP>
+      
+
+      <TEXT>EO:europeia.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1337227259</TIMESTAMP>
+      
+
+      <TEXT>EC:democratium.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1322374222</TIMESTAMP>
+      
+
+      <TEXT>EO:osiris.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1321943584</TIMESTAMP>
+      
+
+      <TEXT>EO:balder.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1314205794</TIMESTAMP>
+      
+
+      <TEXT>EC:global_right_alliance.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1309711765</TIMESTAMP>
+      
+
+      <TEXT>EC:galactic_republic.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1305391573</TIMESTAMP>
+      
+
+      <TEXT>EO:the_great_land_of_the_moon.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1304442583</TIMESTAMP>
+      
+
+      <TEXT>EO:the_west_pacific.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1301115610</TIMESTAMP>
+      
+
+      <TEXT>EO:lazarus.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1300812525</TIMESTAMP>
+      
+
+      <TEXT>EO:equilism.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1300810655</TIMESTAMP>
+      
+
+      <TEXT>EO:the_rejected_realms.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1300767050</TIMESTAMP>
+      
+
+      <TEXT>EO:the_east_pacific.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1300724954</TIMESTAMP>
+      
+
+      <TEXT>EO:europe.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1300683726</TIMESTAMP>
+      
+
+      <TEXT>EO:the_south_pacific.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1300683726</TIMESTAMP>
+      
+
+      <TEXT>EO:global_right_alliance.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1300683726</TIMESTAMP>
+      
+
+      <TEXT>EO:nationstates.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1300682589</TIMESTAMP>
+      
+
+      <TEXT>EO:galactic_republic.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1300682383</TIMESTAMP>
+      
+
+      <TEXT>EO:the_north_pacific.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1300680959</TIMESTAMP>
+      
+
+      <TEXT>EO:democratium.</TEXT>
+      
+
+    </EVENT>
+    
+
+    <EVENT>
+      
+
+      <TIMESTAMP>1242462819</TIMESTAMP>
+      
+
+      <TEXT>@@krulltopia@@ elected WA Delegate.</TEXT>
+      
+
+    </EVENT>
+    
+
+
+  </HISTORY>
+  
+
+</REGION>
