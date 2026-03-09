@@ -1,0 +1,1 @@
+This folder contains the XML outputs of the Region Shard on NS API
