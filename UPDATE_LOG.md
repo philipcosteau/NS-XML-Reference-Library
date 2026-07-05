@@ -1,7 +1,7 @@
 # API Reference Library Update Log
 
 **Date:** 2026-07-05 14:07:28  
-**API Version:**  (as reported by the `nation/name` shard)  
+**API Version:** 13 (as reported by the `nation/name` shard)  [API version 13 adds World Assembly proposal, resolution, and WASec Opinion metadata. It is backward-compatible with version 12: existing fields retain their previous meanings and formats, and heavier nested data remains opt-in.]
 **Method:**  
 All public shards were fetched using `curl` with a descriptive User‑Agent, respecting the 50‑requests‑per‑30‑seconds rate limit by inserting a 0.7‑second delay between calls. The responses were compressed on‑the‑fly as `*.xml.gz`.
 
